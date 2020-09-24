@@ -39,7 +39,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var cheerio_without_node_native_1 = __importDefault(require("cheerio-without-node-native"));
+var cheerio_without_node_native_1 = __importDefault(require("cheerio"));
 var cross_fetch_1 = require("cross-fetch");
 var url_1 = __importDefault(require("url"));
 var constants_1 = require("./constants");
